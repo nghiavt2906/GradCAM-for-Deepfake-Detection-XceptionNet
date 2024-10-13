@@ -11,6 +11,6 @@ This repository demonstrates applying Explainable AI method like `Grad-CAM` to C
 - `ASM1.ipynb`: contains the code for running model predictions and generating Grad-CAM
 ### Evaluation Metrics
 
-### Reslts from Grad-CAM
+### Results from Grad-CAM
 
 ### References
