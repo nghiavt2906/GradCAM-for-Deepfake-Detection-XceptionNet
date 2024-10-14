@@ -25,3 +25,6 @@ A pretrained `XceptionNet` model was employed to make predictions on new dataset
 
 ### References
 [1] vikrampande7/deepfake-detection: https://github.com/vikrampande7/deepfake-detection
+[2] timm-vis PyTorch Image Models Visualizer: https://github.com/novice03/timm-vis
+[3] Deepfake Detection Challenge: https://www.kaggle.com/competitions/deepfake-detection-challenge
+[4] "Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics": https://github.com/yuezunli/celeb-deepfakeforensics
