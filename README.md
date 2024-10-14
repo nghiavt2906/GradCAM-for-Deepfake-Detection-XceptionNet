@@ -4,7 +4,7 @@
 This repository demonstrates applying Explainable AI method like `Grad-CAM` to a CNN model, `XceptionNet`, for Deepfake Detection task. By employing `Grad-CAM`, it helps to give more insights and justify on how decisions are made by CNN models.
 
 ### Pretrained model used:
-- `XceptionNet`: the model has been trained on dataset from [Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics](https://github.com/yuezunli/celeb-deepfakeforensics), then it was used to predict on new dataset, [Kaggle Deepfake Detection Challenge](https://www.kaggle.com/competitions/deepfake-detection-challenge/data), which it has never seen before. Thus, the results can help to draw conclusion on how well the model can generalize on unseen data.
+- `XceptionNet`: the model has been trained on dataset from [Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics](https://github.com/yuezunli/celeb-deepfakeforensics), then it was used to predict on new dataset from [Kaggle Deepfake Detection Challenge](https://www.kaggle.com/competitions/deepfake-detection-challenge/data) which it has never seen before. Thus, the results can help to draw conclusion on how well the model can generalize on unseen data.
 
 ### Methodology
 A pretrained `XceptionNet` model was employed to make predictions on new dataset for Deepfake Detection task and applied with Grad-CAM to explain how the model made decisions based on important parts on images. Below are the following steps for the approach:
@@ -21,5 +21,6 @@ A pretrained `XceptionNet` model was employed to make predictions on new dataset
 ![brave_djq8OiwQEO](https://github.com/user-attachments/assets/4372e875-4945-4f97-bae8-bb91be708b08)
 
 ### Results from Grad-CAM
+![brave_PYy9Z3E85n](https://github.com/user-attachments/assets/6569a453-7022-4e83-9f97-7df3c53ac753)
 
 ### References
