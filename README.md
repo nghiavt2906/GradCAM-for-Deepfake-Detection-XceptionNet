@@ -24,3 +24,4 @@ A pretrained `XceptionNet` model was employed to make predictions on new dataset
 ![brave_PYy9Z3E85n](https://github.com/user-attachments/assets/6569a453-7022-4e83-9f97-7df3c53ac753)
 
 ### References
+[1] vikrampande7/deepfake-detection: https://github.com/vikrampande7/deepfake-detection
